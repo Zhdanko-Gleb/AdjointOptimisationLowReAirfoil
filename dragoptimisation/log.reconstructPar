@@ -1,0 +1,271 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2506                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _615aae61d7-20250627 OPENFOAM=2506 version=v2506
+Arch   : "LSB;label=32;scalar=64"
+Exec   : reconstructPar
+Date   : Dec 08 2025
+Time   : 23:35:04
+Host   : euler
+PID    : 1316092
+I/O    : uncollated
+Case   : /home/g.zhdanko/openFOAM/constraintProjection
+nProcs : 1
+trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+
+
+Reconstructing fields
+region=region0
+
+Time = 1
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 2
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 3
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 4
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 5
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 6
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 7
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+Time = 8
+
+Reconstructing FV fields
+
+    Reconstructing volScalarFields
+
+        p
+        pa
+
+    Reconstructing volVectorFields
+
+        U
+        Ua
+
+    Reconstructing surfaceScalarFields
+
+        meshPhi
+        phi
+        phia
+
+Reconstructing point fields
+
+    Reconstructing pointVectorFields
+
+        parametricCoordinatesduct
+
+No lagrangian fields
+
+No FA fields
+
+
+End
+

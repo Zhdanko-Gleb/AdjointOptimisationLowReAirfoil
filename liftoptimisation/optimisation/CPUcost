@@ -1,0 +1,8 @@
+               #Cycle       LineSearchIters          CycleCPUcost  CyclePrimalSolutions CycleAdjointSolutions          TotalCPUcost  TotalPrimalSolutions TotalAdjointSolutions
+                    2                     1                264.81                     1                     1                264.81                     2                     2
+                    3                     1                 259.8                     1                     1                524.61                     3                     3
+                    4                     1                248.05                     1                     1                772.66                     4                     4
+                    5                     1                221.76                     1                     1                994.42                     5                     5
+                    6                     1     194.9900000000001                     1                     1               1189.41                     6                     6
+                    7                     1     191.7099999999998                     1                     1               1381.12                     7                     7
+                    8                     1     198.5800000000002                     1                     1                1579.7                     8                     8
